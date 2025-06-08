@@ -24,4 +24,6 @@ npm install
 ```
 
 ▶️ Run the App
+```bash
 node index.js
+```
