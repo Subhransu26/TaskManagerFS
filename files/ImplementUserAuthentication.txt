@@ -1,0 +1,1 @@
+Set up a secure user authentication system using sessions or JWT. Include login, registration, and logout functionality with proper input validation and hashed password storage.
